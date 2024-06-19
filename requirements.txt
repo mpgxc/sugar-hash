@@ -1,0 +1,3 @@
+bit
+pycryptodome
+base58
